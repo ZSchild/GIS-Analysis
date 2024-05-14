@@ -8,7 +8,7 @@ This page shows off some of my produced maps from various GIS based analysis and
 <h2>Software and Utilities Used</h2>
 
 - <b>QGIS</b> 
-- <b>ArcGIS</b>
+- <b>ArcGIS: ArcPro, FieldMaps, ArcMap</b>
 - <b>R</b>
 - <b>Python</b>
 
