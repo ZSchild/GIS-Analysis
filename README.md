@@ -24,7 +24,7 @@ In this project, I used machine learning models to classify greenspace area into
 <p align="center"> Land Cover Map of New York City (Color Blind Friendly) 
  <br/>
  
-<img src="https://i.imgur.com/BH4FgsA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9KzvTrs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <!--
  ```diff
